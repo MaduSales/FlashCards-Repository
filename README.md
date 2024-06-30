@@ -9,7 +9,7 @@ Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
 
 ## Acesso
-[](https://madusales.github.io/FlashCards-Repository/)
+[Clique aqui](https://madusales.github.io/FlashCards-Repository/)
 
 ## Tecnologias
 - HTML
